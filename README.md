@@ -1,4 +1,4 @@
 ### Hi there 👋
-I'm an iOS developer working on VP Inc.
-Welcome to my Github :)
+I'm an iOS developer in VP Inc.
+\nWelcome to my Github :)
 
